@@ -8,6 +8,7 @@ int strln(char* str){
 		}
 		length++;
 	}
+// while(*(str+length != '\0')
 }
 
 int main(){
